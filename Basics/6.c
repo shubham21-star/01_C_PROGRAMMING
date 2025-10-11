@@ -2,6 +2,8 @@
 
 int main ()
 {
+    // using only if statements to check multiple conditions
+    // without using logical operatorss
     char user_id;
     int password, age, grade;
     printf("Enter your user id & password: \n");

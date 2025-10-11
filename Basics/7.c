@@ -1,4 +1,4 @@
-#inclide <stdio.h>
+#include <stdio.h>
 int main() {
     // /electric bill calculation
     int units,bill;
@@ -8,7 +8,7 @@ int main() {
     {
         printf("Your Electric bill is: %d", units*8);
     }
-    else if(units<200 && unit>100)
+    else if(units<200 && units>100)
     {
         printf("Your Electric bill is: %d", units*10);
     }
