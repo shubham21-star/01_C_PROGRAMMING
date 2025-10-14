@@ -82,7 +82,7 @@ int main() {
         case 3: 
         {
             int marks;
-            printf("Enter your marks: ");
+            printf("Enter your marks out of 100: ");
             scanf("%d", &marks);
             switch(marks / 10) 
             {
