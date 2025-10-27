@@ -63,3 +63,40 @@ You can compile and run any C file using **GCC**:
 ```bash
 gcc filename.c -o output
 ./output
+
+---
+
+## 👨‍💻 Author  
+
+<p align="center">
+  <img src="https://github.com/shubham21-star.png" width="120" height="120" style="border-radius:50%; box-shadow: 0 0 10px #00ffb3;" alt="Author Profile Picture" />
+</p>
+
+<h3 align="center">✨ Shubham Kumar ✨</h3>
+
+<p align="center">
+  <i>B.Tech Student • Aspiring Full Stack Developer • Passionate C Programmer</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shubham21-star">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shubham.asp21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shubhamk_.21/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you like this repository, don’t forget to Star it!</b> ⭐  
+  <br>
+  Made with ❤️ by <b>Shubham Kumar</b>
+</p>
