@@ -1,4 +1,4 @@
-#include <stido.h>
+#include <stdio.h>
 int main() {
     // divisibility check 5 & 11
     int num;
