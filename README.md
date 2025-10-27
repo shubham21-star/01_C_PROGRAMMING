@@ -64,7 +64,7 @@ You can compile and run any C file using **GCC**:
 gcc filename.c -o output
 ./output
 
----
+```
 
 ## 👨‍💻 Author  
 
