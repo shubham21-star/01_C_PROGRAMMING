@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main ()
 {
     // using only if statements to check multiple conditions
