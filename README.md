@@ -66,37 +66,65 @@ gcc filename.c -o output
 
 ```
 
-## 👨‍💻 Author  
+
+---
+
+## 💻 Tools Used  
+
+| Tool | Purpose |
+|------|----------|
+| 🧠 **VS Code** | For writing & debugging code |
+| 🖥️ **GCC Compiler** | To compile C programs |
+| 🐙 **Git & GitHub** | For version control and collaboration |
+| 📘 **Markdown** | For creating README documentation |
+
+---
+
+## 🔰 Tips for Beginners  
+
+- ✨ Start with simple programs and focus on understanding logic  
+- ⚙️ Practice writing `if`, `for`, `while` manually (no copy-paste)  
+- 🔄 Always dry-run your loops and conditions on paper  
+- 🧩 Write comments to understand your code better  
+
+---
+
+## 📈 Repository Stats  
 
 <p align="center">
-  <img src="https://github.com/shubham21-star.png" width="120" height="120" style="border-radius:50%; box-shadow: 0 0 10px #00ffb3;" alt="Author Profile Picture" />
-</p>
-
-<h3 align="center">✨ Shubham Kumar ✨</h3>
-
-<p align="center">
-  <i>B.Tech Student • Aspiring Full Stack Developer • Passionate C Programmer</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shubham21-star">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shubham.asp21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shubhamk_.21/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham21-star&repo=C-PROGRAMMING&theme=tokyonight" alt="Repo Stats" />
 </p>
 
 ---
 
+## 🏆 Highlights  
+
+- 🏁 100% beginner-friendly structure  
+- 📂 Properly organized folders  
+- 💡 Code with comments for easy learning  
+- 🧩 Each concept has a dedicated example  
+
+---
+
+## 👨‍💻 Author  
+
 <p align="center">
-  ⭐ <b>If you like this repository, don’t forget to Star it!</b> ⭐  
-  <br>
-  Made with ❤️ by <b>Shubham Kumar</b>
+  <img src="https://avatars.githubusercontent.com/shubham21-star" width="120" style="border-radius:50%;" alt="Shubham Kumar Avatar"/>
 </p>
+
+<p align="center">
+  <b>Shubham Kumar</b><br>
+  💻 B.Tech 1st Year | Aspiring Full Stack Developer<br>
+  📧 <a href="mailto:shubham.asp21@gmail.com">shubham.asp21@gmail.com</a><br>
+  🌐 <a href="https://github.com/shubham21-star" target="_blank">GitHub Profile</a>
+</p>
+
+---
+
+## ✨ Quote of the Day  
+
+> “Every great developer you know started as a beginner who never gave up.” 💪  
+
+---
+
+<p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
