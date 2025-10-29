@@ -32,3 +32,50 @@ You can compile and execute any of these programs using:
 ```bash
 gcc filename.c -o output
 ./output
+
+```
+
+---
+
+## 💻 Tools Used  
+
+| Tool | Purpose |
+|------|----------|
+| 🧠 **VS Code** | For writing & debugging code |
+| 🖥️ **GCC Compiler** | To compile and run C programs |
+| 🐙 **Git & GitHub** | For version control and sharing code |
+| 📘 **Markdown** | For creating README documentation |
+
+---
+
+## 🔰 Tips for Beginners  
+
+- 💡 Understand the **flow of conditions** — how `if`, `else if`, and `else` execute.  
+- 🔄 Try writing **nested if** and **ladder if-else** examples yourself.  
+- 🧠 Always dry-run conditions on paper to check logic before execution.  
+- 🧩 Practice real-life examples (like marksheet, billing, eligibility check).  
+
+---
+
+## 👨‍💻 Author  
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/shubham21-star" width="120" style="border-radius:50%;" alt="Shubham Kumar Avatar"/>
+</p>
+
+<p align="center">
+  <b>Shubham Kumar</b><br>
+  💻 B.Tech 1st Year | Aspiring Full Stack Developer<br>
+  📧 <a href="mailto:shubham.asp21@gmail.com">shubham.asp21@gmail.com</a><br>
+  🌐 <a href="https://github.com/shubham21-star" target="_blank">GitHub Profile</a>
+</p>
+
+---
+
+## ✨ Quote of the Day  
+
+> “Logic is the foundation of every great program — master it, and code will follow.” 🧩  
+
+---
+
+<p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
