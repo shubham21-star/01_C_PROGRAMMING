@@ -22,20 +22,20 @@ Each topic is neatly organized into subfolders, making it **beginner-friendly an
 
 ---
 
-## 📂 Folder Structure  
+## 📂 Folder Structure
 
 | Folder | Description | Open Link |
-|:------:|--------------|-----------|
-| 🅰️ **01_Basics** | Input/Output, variables, data types, and operators. | [Open](./01_Basics) |
-| 🅱️ **02_Conditional_Statements** | If-else, switch-case, and decision-making programs. | [Open](./02_Conditional_Statements) |
-| 🔁 **03_Loops** | For, while, do-while loops, and pattern examples. | [Open](./03_Loops) |
-| ⚙️ **04_Functions** | Function basics, recursion, and parameter usage. | [Open](./04_Functions) |
-| 🧮 **05_Arrays** | 1D & 2D arrays, traversal, and sum operations. | [Open](./05_Arrays) |
-| 🧵 **06_Strings** | String operations and standard library functions. | [Open](./06_Strings) |
-| 🎯 **07_Pointers** | Pointer basics, pointer arithmetic, and memory access. | [Open](./07_Pointers) |
-| 🧱 **08_Structures_&_Unions** | Real-world examples using structures and unions. | [Open](./08_Structures_&_Unions) |
-| 📁 **09_File_Handling** | File input/output handling in C. | [Open](./09_File_Handling) |
-| 🚀 **10_Mini_Projects** | Small projects combining multiple topics. | [Open](./10_Mini_Projects) |
+|--------|--------------|-----------|
+| **01 - Basics** | Core C concepts — input/output, variables, data types, and operators. | [Open](./01_Basics) |
+| **02 - Conditional Statements** | If-else, switch-case, and other decision-making constructs. | [Open](./02_Conditional_Statements) |
+| **03 - Loops** | For, while, and do-while loops with practical examples and pattern logic. | [Open](./03_Loops) |
+| **04 - Functions** | Function design, recursion, and parameter handling for modular programming. | [Open](./04_Functions) |
+| **05 - Arrays** | Implementation of 1D & 2D arrays, traversal, manipulation, and summation. | [Open](./05_Arrays) |
+| **06 - Strings** | String operations, comparison, concatenation, and standard library functions. | [Open](./06_Strings) |
+| **07 - Pointers** | Pointer basics, arithmetic, memory referencing, and dynamic allocation. | [Open](./07_Pointers) |
+| **08 - Structures & Unions** | Structured data management and real-world implementation examples. | [Open](./08_Structures_&_Unions) |
+| **09 - File Handling** | File input/output operations, reading, writing, and data persistence. | [Open](./09_File_Handling) |
+| **10 - Mini Projects** | Practical mini projects integrating multiple core C programming concepts. | [Open](./10_Mini_Projects) |
 
 ---
 
