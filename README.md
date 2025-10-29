@@ -24,19 +24,18 @@ Each topic is neatly organized into subfolders, making it **beginner-friendly an
 
 ## 📂 Folder Structure  
 
-| No. | Folder Name | Description | Link |
-|:--:|--------------|-------------|------|
-| 1️⃣ | **01_Tasks** | Homework and assignments from college/sir. | [Open](./01_Tasks) |
-| 2️⃣ | **02_Basics** | Input/Output, variables, data types, and operators. | [Open](./02_Basics) |
-| 3️⃣ | **03_Conditional_Statements** | If-else, switch-case, and decision-making programs. | [Open](./03_Conditional_Statements) |
-| 4️⃣ | **04_Loops** | For, while, do-while loops, and pattern examples. | [Open](./04_Loops) |
-| 5️⃣ | **05_Functions** | Function basics, recursion, and parameter usage. | [Open](./05_Functions) |
-| 6️⃣ | **06_Arrays** | 1D & 2D arrays, traversal, and sum operations. | [Open](./06_Arrays) |
-| 7️⃣ | **07_Strings** | String operations and standard library functions. | [Open](./07_Strings) |
-| 8️⃣ | **08_Pointers** | Pointer basics, pointer arithmetic, and memory access. | [Open](./08_Pointers) |
-| 9️⃣ | **09_Structures_&_Unions** | Real-world examples using structures and unions. | [Open](./09_Structures_&_Unions) |
-| 🔟 | **10_File_Handling** | File input/output handling in C. | [Open](./10_File_Handling) |
-| 1️⃣1️⃣ | **11_Mini_Projects** | Small projects combining multiple topics. | [Open](./11_Mini_Projects) |
+| Folder | Description | Open Link |
+|:------:|--------------|-----------|
+| 🅰️ **01_Basics** | Input/Output, variables, data types, and operators. | [Open](./01_Basics) |
+| 🅱️ **02_Conditional_Statements** | If-else, switch-case, and decision-making programs. | [Open](./02_Conditional_Statements) |
+| 🔁 **03_Loops** | For, while, do-while loops, and pattern examples. | [Open](./03_Loops) |
+| ⚙️ **04_Functions** | Function basics, recursion, and parameter usage. | [Open](./04_Functions) |
+| 🧮 **05_Arrays** | 1D & 2D arrays, traversal, and sum operations. | [Open](./05_Arrays) |
+| 🧵 **06_Strings** | String operations and standard library functions. | [Open](./06_Strings) |
+| 🎯 **07_Pointers** | Pointer basics, pointer arithmetic, and memory access. | [Open](./07_Pointers) |
+| 🧱 **08_Structures_&_Unions** | Real-world examples using structures and unions. | [Open](./08_Structures_&_Unions) |
+| 📁 **09_File_Handling** | File input/output handling in C. | [Open](./09_File_Handling) |
+| 🚀 **10_Mini_Projects** | Small projects combining multiple topics. | [Open](./10_Mini_Projects) |
 
 ---
 
@@ -63,11 +62,7 @@ You can compile and run any C file using **GCC**:
 ```bash
 gcc filename.c -o output
 ./output
-
 ```
-
-
----
 
 ## 💻 Tools Used  
 
@@ -89,23 +84,6 @@ gcc filename.c -o output
 
 ---
 
-## 📈 Repository Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham21-star&repo=C-PROGRAMMING&theme=tokyonight" alt="Repo Stats" />
-</p>
-
----
-
-## 🏆 Highlights  
-
-- 🏁 100% beginner-friendly structure  
-- 📂 Properly organized folders  
-- 💡 Code with comments for easy learning  
-- 🧩 Each concept has a dedicated example  
-
----
-
 ## 👨‍💻 Author  
 
 <p align="center">
@@ -123,7 +101,7 @@ gcc filename.c -o output
 
 ## ✨ Quote of the Day  
 
-> “Every great developer you know started as a beginner who never gave up.” 💪  
+> “Don’t just write code — understand why it works.” 💡  
 
 ---
 
