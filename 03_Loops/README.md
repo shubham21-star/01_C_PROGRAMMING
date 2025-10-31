@@ -11,6 +11,7 @@ This folder contains programs demonstrating **looping constructs** in C — how 
 | 1️⃣ | **01_For_Loop_use_i++.c** | Demonstrates increment (`i++`) and decrement (`i--`) operations, prints numbers in ascending and descending order, and calculates the sum from 1 to 10. |
 | 2️⃣ | **02_Print_Number_1_to_100.c** | Prints numbers from 1 to 100 using a `for` loop. |
 | 3️⃣ | **03_while_loop_practice.c** | Demonstrates practical use of `while` loops — printing messages, generating tables of 2 and 3, and calculating the sum of the first five numbers. |
+| 4️⃣ | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
 
 
 ---
