@@ -14,6 +14,7 @@ This folder contains programs demonstrating **looping constructs** in C — how 
 | 4️⃣ | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
 
 
+
 ---
 
 ## 🧩 Concepts Covered  
