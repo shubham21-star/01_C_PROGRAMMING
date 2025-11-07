@@ -28,7 +28,7 @@ int main() {
         }
         printf("2025 Infinite mode activated — December selected. ");
         while (1) {
-            printf("I am the best programmer alive! ");
+            printf("I am the best programmer alive!");
         }
     } 
     else {
