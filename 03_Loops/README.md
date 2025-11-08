@@ -14,6 +14,7 @@ This folder contains programs demonstrating **looping constructs** in C — how 
 | 4️⃣ | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
 | 5️⃣ | **05_table_of_number.c** | Takes a number as input and prints its multiplication table from 1 to 10 using a `while` loop. |
 | 6️⃣ | **06_sum_of_n_numbers.c** | Takes an integer input `N` and calculates the sum of the first `N` natural numbers using a `while` loop. Demonstrates accumulation logic with `sum += i`. |
+| 7️⃣ | **07_reverse_number.c** | Takes an integer input and reverses its digits using a `while` loop. Demonstrates modulus (`%`) and integer division (`/`) operations for digit extraction. |
 
 
 
