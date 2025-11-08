@@ -13,6 +13,7 @@ This folder contains programs demonstrating **looping constructs** in C — how 
 | 3️⃣ | **03_while_loop_practice.c** | Demonstrates practical use of `while` loops — printing messages, generating tables of 2 and 3, and calculating the sum of the first five numbers. |
 | 4️⃣ | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
 | 5️⃣ | **05_table_of_number.c** | Takes a number as input and prints its multiplication table from 1 to 10 using a `while` loop. |
+| 6️⃣ | **06_sum_of_n_numbers.c** | Takes an integer input `N` and calculates the sum of the first `N` natural numbers using a `while` loop. Demonstrates accumulation logic with `sum += i`. |
 
 
 
