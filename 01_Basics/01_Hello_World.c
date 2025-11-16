@@ -1,3 +1,5 @@
+// BASICS
+
 #include <stdio.h>
 int main() {
     int a,b,c,d,s,m,sum,sum1;

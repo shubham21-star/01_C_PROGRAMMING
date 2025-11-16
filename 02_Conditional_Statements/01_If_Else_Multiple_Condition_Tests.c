@@ -1,3 +1,5 @@
+//CONDITIONAL STATEMENTS 
+
 #include <stdio.h>
 int main() {
     // divisibility check 5 & 11
